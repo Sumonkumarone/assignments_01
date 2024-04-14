@@ -1,0 +1,14 @@
+.calculator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputArea {
+    padding: 20px;
+    background-color: gray; 
+    border-radius: 15px;
+}
+
+.inputArea input {
+    margin: 10px 0px 10px 0px;
+}
